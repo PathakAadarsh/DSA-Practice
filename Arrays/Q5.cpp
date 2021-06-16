@@ -31,7 +31,7 @@ int main(){
 
 
 
-More optimised version using Min Heap
+* More optimised version using Min Heap -
 Time Complexity - O(n + Klogn)
   
 #include <climits>
